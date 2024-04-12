@@ -4,7 +4,7 @@ Cervical cancer, a significant health concern for women globally, can be tackled
 
 **Problem Statement: 1. Develop machine learning models for accurate cervical cancer diagnosis, aiding doctors in early detection.**
 
-[![Hugging Face App](https://img.shields.io/badge/Hugging_Face_App-Cervical_Cancer_Risk_Predictionw-blue?style=for-the-badge&logo=appveyor)](https://huggingface.co/spaces/Parthebhan/Cervical_Cancer_Risk_Prediction)
+[![Hugging Face App](https://img.shields.io/badge/Hugging_Face_App-Cervical_Cancer_Risk_Prediction_App-blue?style=for-the-badge&logo=appveyor)](https://huggingface.co/spaces/Parthebhan/Cervical_Cancer_Risk_Prediction)
 
 
 **Problem Statement: 2. Investigate correlations among cervical cancer parameters and conduct a survey to enhance awareness and understanding in the community.:**
